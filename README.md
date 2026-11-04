@@ -20,26 +20,6 @@ Meu objetivo é adquirir conhecimento sobre o mercado de tecnologia da informaç
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/richard-silva-siqueira/)
 
-<h3 align="left">GitHub Stats</h3>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=RichardSiqueira06&layout=compact&custom_title=Richard's Stats&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=RichardSiqueira06&layout=compact&custom_title=Most Used Languages&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
-</p>
-
 
 
 
