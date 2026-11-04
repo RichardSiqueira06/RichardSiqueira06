@@ -40,12 +40,6 @@ Meu objetivo é adquirir conhecimento sobre o mercado de tecnologia da informaç
 
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Action Snake" src="https://githubusercontent.com">
-</picture>
-
 
 
 
